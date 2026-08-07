@@ -4,8 +4,8 @@
 ### SharePoint
 
 - ✅ CFG_Ciclo
-- ⏳ CFG_ModeloVersion
-- ⏳ CFG_Equivalencia
+- ✅ CFG_ModeloVersion
+- ✅ CFG_Equivalencia
 - ⏳ SEC_Asignacion
 - ⏳ CNA_Recomendacion
 - ⏳ MEJ_Oportunidad
