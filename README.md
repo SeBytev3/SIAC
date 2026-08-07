@@ -8,9 +8,9 @@
 - ✅ CFG_Equivalencia
 - ⏳ SEC_Asignacion
 - ⏳ CNA_Recomendacion
-- ⏳ MEJ_Oportunidad
-- ⏳ MEJ_Intervencion
-- ⏳ MEJ_Actividad
+- ✅ MEJ_Oportunidad
+- ✅ MEJ_Intervencion
+- ✅ MEJ_Actividad
 - ⏳ IND_Definicion
 - ⏳ IND_Medicion
 - ⏳ DOC_Solicitud
